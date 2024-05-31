@@ -1,3 +1,3 @@
 # Marble-Maze
 
-!회로도[./image.png]
+![회로도](./image.png)
